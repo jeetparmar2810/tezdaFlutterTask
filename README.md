@@ -1,6 +1,6 @@
 # **Tezda Flutter Task**
 
-![App Demo](https://your-gif-url-here)  
+![Flutter Task](flutterTask.gif)
 *An immersive e-commerce application with user authentication, product listing, favorites, and profile management.*
 
 ---
