@@ -1,0 +1,37 @@
+class AppStrings {
+  static const String productFetchError = "Failed to load products";
+  static const String baseApiUrl = "https://fakestoreapi.com/products";
+  static const String userRegistered = 'User Registered';
+  static const String loginFailed = 'Login failed';
+  static const String logoutMessage = 'User Logged out';
+  static const String registrationFailed = 'Registration failed';
+  static const String userLoggedIn = 'User Logged in';
+  static const String noFavorites = "No favorites yet!";
+  static const String priceSymbol = "\$";
+  static const String productList = "Product List";
+  static const String favorites = "Favorites";
+  static const String profile = "Profile";
+  static const String logout = "Logout";
+  static const String appTitle = "Web 3.0 E-commerce";
+  static const String loginTitle = "Login";
+  static const String emailHint = "Enter your email";
+  static const String passwordHint = "Enter your password";
+  static const String loginButton = "Login";
+  static const String registerRedirect = "Don't have an account? Register here.";
+  static const String loadingProducts = "Loading Products...";
+  static const String errorLoadingProducts = "Failed to load products";
+  static const String profileScreenTitle = "Update Profile";
+  static const String nameHint = "Enter your name";
+  static const String emailHintReadOnly = "Enter your email";
+  static const String saveChangesButton = "Save Changes";
+  static const String nameEmptyError = "Name cannot be empty.";
+  static const String profileUpdatedMessage = "Profile updated successfully.";
+  static const String registerTitle = "Register";
+  static const String confirmPasswordHint = "Confirm your password";
+  static const String allFieldsRequiredError = "All fields are required.";
+  static const String passwordsMismatchError = "Passwords do not match.";
+  static const String registrationSuccess = "Registration successful!";
+  static const String registrationFailure = "Registration failed. Try again.";
+  static const String loginRedirect = "Already have an account? Login here.";
+  static const String emailAlreadyRegistered = "This email is already registered";
+}

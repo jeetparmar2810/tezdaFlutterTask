@@ -1,0 +1,4 @@
+# Example: Keep AR Sceneform dependencies
+-keep class com.google.ar.sceneform.** { *; }
+-keep class com.google.ar.sceneform.rendering.** { *; }
+-keep class com.google.ar.sceneform.assets.** { *; }
